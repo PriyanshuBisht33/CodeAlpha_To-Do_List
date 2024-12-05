@@ -1,11 +1,11 @@
 body {
   font-family: Arial, sans-serif;
-  background-color:black;
+  background-image: url('img/Bg_img.jpg');
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100%;
-  margin: 0;
+  margin: 50px;
 }
 
 .todo-container {
@@ -13,7 +13,7 @@ body {
   max-width: 500px;
   background: #ffffff;
   border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 9px 14px rgba(0, 0, 0, 1.2);
   padding: 20px;
   text-align: center;
 }
